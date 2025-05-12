@@ -21,5 +21,5 @@ This project is designed as a portfolio-ready example to demonstrate the ability
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kavenegar-otp-auth.git
+git clone https://github.com/MILAD-ALISHAHI1996/kavenegar-otp-auth
 cd kavenegar-otp-auth
